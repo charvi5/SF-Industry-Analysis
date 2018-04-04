@@ -20,7 +20,7 @@ Following are some of the screenshots from the interactive maps for the most num
 
 <img src="https://github.com/charvi5/SF-Industry-Analysis/blob/master/image1.png" height="500" width = "500">
 
-<img src="https://github.com/charvi5/SF-Industry-Analysis/blob/master/image2.png" height="500" width = "500">
+<img src="https://github.com/charvi5/SF-Industry-Analysis/blob/master/image2.png" height="600" width = "500">
 
 The interactive map here can be zoomed into smaller areas and help figure number of businesses in each area on the basis of its latitude, longitude coordinates. The businesses have been grouped together on the basis of similar coordinates and the cluster size helps determine the number of businesses in that area.  
 This approach was applied over a machine learning approach to determine similar businesses because it is much more intuitive and easier for business to derive insights using visual method of data storytelling. Such methods are easily scalable across business and makes it easier for product teams to build a solution on top of it. 
