@@ -1,11 +1,11 @@
 
-DESCRIPTION
+Description
 -------------------------------------------------------------------------------------------------------------------------
 - 
 
 
 
-GENERAL USAGE NOTES
+General usage notes
 -------------------------------------------------------------------------------------------------------------------------
 - The code has been written used Python3 using Jupiter notebook as interface
 
@@ -13,7 +13,7 @@ GENERAL USAGE NOTES
 
 - The encoding of the input dataset has been taken as ‘ISO-8859-1’ instead of default ‘UTF-8’ . Due to some special characters mentioned in the file, UTF-8 encoding threw errors while reading files
 
-INSTALLING LIBRARIES AND PACKAGES
+Installing libraries and packages
 -----------------------------------------------------------------------------------------------------------------------
 Mac OS:
 - To download libraries and packages being loaded in first block of the code, go to Terminal and download packages using ‘pip install package-name’
