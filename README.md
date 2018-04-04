@@ -26,10 +26,10 @@ To run the notebook, following list of packages must be installed in the system:
 
 **Mac OS:**
 - To download libraries and packages being loaded in first block of the code, go to Terminal and download packages using 
-```sh<pip install package-name> ```
-- If pip throws an error due to packages not being a part of pip anymore, use ```sh<condo install package-name> ``` , this is an Anaconda command and directly downloads packages in Anaconda
+```pip install package-name ```
+- If pip throws an error due to packages not being a part of pip anymore, use ```condo install package-name``` , this is an Anaconda command and directly downloads packages in Anaconda
 
 **Windows:**
-- Open Windows command prompt and enter ```sh <py -3.6 -m pip install package-name> ```
+- Open Windows command prompt and enter ```py -3.6 -m pip install package-name```
 
 -------------------------------------------------------------------------------------------------------------------------
