@@ -13,6 +13,12 @@ Notes
 
 - The encoding of the input dataset has been taken as ‘ISO-8859-1’ instead of default ‘UTF-8’ . Due to some special characters mentioned in the file, UTF-8 encoding threw errors while reading files
 
+**Approach**
+------------------------------------------------------------------------------------------------------------------------
+Descriptive statitics has been employed to run this analysis and the insights have been presented in form of interactive maps to better understand the underlyings of the data and popularity of various industries.
+Following are some of the screenshots from the interactive maps for the most number of businesses in a zipcode:
+![image1](image1.png)
+
 Installing libraries and packages
 -----------------------------------------------------------------------------------------------------------------------
 To run the notebook, following list of packages must be installed in the system:
