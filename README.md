@@ -1,9 +1,8 @@
 
 Description
 -------------------------------------------------------------------------------------------------------------------------
-- 
-
-
+The dataset includes the locations of businesses that pay taxes to the City and County of San Francisco. The Treasurer & Tax Collector’s Office collects this data through business registration applications, account update/closure forms, and taxpayer filings.
+This dataset has been analyzed to see which new industries have sprung up over time in San Francisco Bay area and businesses which are most active in different areas within the Bay area. 
 
 General usage notes
 -------------------------------------------------------------------------------------------------------------------------
