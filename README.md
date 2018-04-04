@@ -1,8 +1,9 @@
 
 Description
 -------------------------------------------------------------------------------------------------------------------------
-The dataset includes the locations of businesses that pay taxes to the City and County of San Francisco. The Treasurer & Tax Collector’s Office collects this data through business registration applications, account update/closure forms, and taxpayer filings.
-This dataset has been analyzed to see which new industries have sprung up over time in San Francisco Bay area and businesses which are most active in different areas within the Bay area. 
+This analysis has been performed to see which new industries have sprung up over time in San Francisco area and which of these industries have potential for maximum growth.
+This dataset includes the locations of businesses that pay taxes to the City and County of San Francisco.
+The dataset was obtained by Treasurer and Tax Collector's office of California. 
 
 General usage notes
 -------------------------------------------------------------------------------------------------------------------------
@@ -15,7 +16,8 @@ General usage notes
 Installing libraries and packages
 -----------------------------------------------------------------------------------------------------------------------
 Mac OS:
-- To download libraries and packages being loaded in first block of the code, go to Terminal and download packages using ‘pip install package-name’
+- To download libraries and packages being loaded in first block of the code, go to Terminal and download packages using 
+'''sh<pip install package-name>'''
 - If pip throws an error due to packages not being a part of pip anymore, use ‘condo install package-name’ , this is an Anaconda command and directly downloads packages in Anaconda
 
 Windows:
