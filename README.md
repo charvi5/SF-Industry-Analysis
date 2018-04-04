@@ -22,9 +22,9 @@ Following are some of the screenshots from the interactive maps for the most num
 
 <img src="https://github.com/charvi5/SF-Industry-Analysis/blob/master/image2.png" height="600" width = "450">
 
-The interactive map here can be zoomed into smaller areas and help figure number of businesses in each area on the basis of its latitude, longitude coordinates. The businesses have been grouped together on the basis of similar coordinates and the cluster size helps determine the number of businesses in that area.  
+The interactive map here can be zoomed into smaller areas and help figure number of businesses in each area on the basis of its latitude, longitude coordinates. The businesses have been grouped together on the basis of similar coordinates and the cluster size helps determine the number of businesses in that area. The image segmentation approach employed here to seperate areas on the basis of active business counts is based on the basics of [Watershed Algorithm](https://en.wikipedia.org/wiki/Watershed_(image_processing)).
 This approach was applied over a machine learning approach to determine similar businesses because it is much more intuitive and easier for business to derive insights using visual method of data storytelling. Such methods are easily scalable across business and makes it easier for product teams to build a solution on top of it. 
-Although, as part of future work, a more statistical, machine learning approach can be applied to build predictive insights out of this.
+Although, as part of future work, a more statistical, machine learning approach can be applied to build predictive insights out of this. Also, to further understand how various businesses get redistributed among areas on zooming in on interactive maps, a [Hierarchial Clustering](https://en.wikipedia.org/wiki/Hierarchical_clustering) technique can be applied.
 
 Installing libraries and packages
 -----------------------------------------------------------------------------------------------------------------------
