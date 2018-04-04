@@ -5,7 +5,7 @@ This analysis has been performed to see which new industries have sprung up over
 This dataset includes the locations of businesses that pay taxes to the City and County of San Francisco.
 The dataset was obtained by Treasurer and Tax Collector's office of California. 
 
-General usage notes
+Notes
 -------------------------------------------------------------------------------------------------------------------------
 - The code has been written used Python3 using Jupiter notebook as interface
 
@@ -15,12 +15,21 @@ General usage notes
 
 Installing libraries and packages
 -----------------------------------------------------------------------------------------------------------------------
-Mac OS:
+To run the notebook, following list of packages must be installed in the system:
+-  Pandas
+-  Numpy
+-  matplotlib
+-  geopandas
+-  folium
+-  shapely
+-  zipcode
+
+**Mac OS:**
 - To download libraries and packages being loaded in first block of the code, go to Terminal and download packages using 
 '''sh<pip install package-name>'''
 - If pip throws an error due to packages not being a part of pip anymore, use ‘condo install package-name’ , this is an Anaconda command and directly downloads packages in Anaconda
 
-Windows:
+**Windows:**
 - Open Windows command prompt and enter py -3.6 -m pip install package-name
 
 -------------------------------------------------------------------------------------------------------------------------
